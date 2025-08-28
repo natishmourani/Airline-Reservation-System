@@ -21,7 +21,7 @@ The system ensures that flights cannot be booked, and tickets cannot be generate
 
 ---
 
-## 📂 Project Structure  
+## Project Structure  
 ```
 Airline-Reservation-System/
 │── airline.cpp # Main C++ source code
