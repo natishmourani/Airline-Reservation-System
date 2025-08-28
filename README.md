@@ -21,13 +21,13 @@ The system ensures that flights cannot be booked, and tickets cannot be generate
 
 ---
 
-## Project Structure  
-Airline-Reservation-System
-- airline.cpp # Main C++ source code
-- README.md # Documentation
-- tickets/ # tickets can be saved (if implemented)
-
----
+## 📂 Project Structure  
+```
+Airline-Reservation-System/
+│── airline.cpp # Main C++ source code
+│── README.md # Documentation
+│── tickets # tickets are saved (if implemented)
+```
 
 ##  Developers  
 - Natish
